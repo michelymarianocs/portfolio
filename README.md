@@ -1,3 +1,6 @@
+
+![alt text](https://raw.githubusercontent.com/michelymarianocs/portfolio/main/michely%20mariano.png)
+
 # Michely Mariano
 <sub>*Cientista de Dados*</sub>
 
