@@ -7,7 +7,7 @@
 Bacharel em Direito pela Faculdade Anísio Teixeira, trabalhei como Analista na Defensoria Pública Estadual da Bahia e atualmente desenvolvendo Projetos na área de Ciência de Dados.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/michely-mariano-cavalcante-silva-3a949321a/)
+* [LinkedIn](https://www.linkedin.com/in/michelymarianocs)
 * [Medium](https://medium.com/@michelycavalcantesilva)
 
 
