@@ -8,7 +8,6 @@ Bacharel em Direito pela Faculdade Anísio Teixeira, trabalhei como Analista na 
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/michelymarianocs)
-* [Medium](https://medium.com/@michelycavalcantesilva)
 
 
 ## Projetos:
