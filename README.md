@@ -12,4 +12,4 @@ Bacharel em Direito pela Faculdade Anísio Teixeira, trabalhei como Analista na 
 
 
 ## Projetos:
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Analisando os dados do Airbnb - Rio de Janeiro:** https://github.com/michelymarianocs/portfolio/blob/main/Analisando_os_Dados_do_Airbnb_(Rio_de_Janeiro).ipynb
