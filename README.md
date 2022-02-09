@@ -10,5 +10,5 @@ Bacharel em Direito pela Faculdade Anísio Teixeira, trabalhei como Analista na 
 
 
 ## Projetos:
-* **Analisando os dados do Airbnb - Rio de Janeiro:** https://bityli.com/kEIRx
-* **Analisando os dados do Airbnb - Seattle:** https://bityli.com/EIgpS
+* **Analisando os dados do Airbnb - Rio de Janeiro:** https://github.com/michelymarianocs/Projetos-Data-Science/blob/main/Analisando_os_Dados_do_Airbnb_(Rio_de_Janeiro).ipynb
+* **Analisando os dados do Airbnb - Seattle:** https://github.com/michelymarianocs/Projetos-Data-Science/blob/main/Analisando_os_Dados_do_Airbnb_Seattle.ipynb
